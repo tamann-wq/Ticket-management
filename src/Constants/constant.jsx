@@ -1,0 +1,1 @@
+export const positionsElement = ["Assigned", "In Process", "Resolved", "Deployed", "Closed"];
